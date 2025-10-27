@@ -28,4 +28,4 @@ HeroHub is a simple Python web app where you can submit and view pictures of her
 - [ ] Edit Markdown docs
 - [ ] Explore security features
 
-Let’s make HeroHub "super" together!
+Let’s make HeroHub "super" together!!
